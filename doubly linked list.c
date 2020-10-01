@@ -22,7 +22,7 @@ void add()
         head=newnode;
         temp=newnode;
         node_count++;
-    }
+    }    //noice
     else
     {
         temp->next=newnode;
